@@ -1,0 +1,5 @@
+SOURCE=https://m1.ppy.sh/r/osu!install.exe 
+ESYNC=1
+FSYNC=1
+install=dotnet40
+start=C:/users/$USERNAME$/Local Settings/Application Data/osu!.exe
