@@ -1,0 +1,5 @@
+SOURCE=https://thisisatestofthevideogamedeliverysystem.sfo2.cdn.digitaloceanspaces.com/SURVEY_PROGRAM_WINDOWS_ENGLISH.exe
+ESYNC=1
+FSYNC=1
+install=
+start=C:/users/$USERNAME$/Local Settings/Application Data/osu!.exe
